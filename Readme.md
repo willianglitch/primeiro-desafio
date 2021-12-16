@@ -1,0 +1,1 @@
+olá meu primeiro projeto que é a criação de um cartão com Css e HTML que foi um passo para eu ,obteve mais experiência na área ; #pequeno passo 
